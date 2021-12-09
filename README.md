@@ -14,14 +14,5 @@ In diesem Dokument dokumentieren wir unsere Arbeitsschritte von dem einrichten d
 
 # Inhaltsverzeichnis
 
-[Informieren](doc/informieren.md)
+[Arduino Code](doc/Arduino_Code.md)
 
-[Planen](doc/planen.md)
-
-[Entscheiden](doc/entscheiden.md)
-
-[Realisieren](doc/realisieren.md)
-
-[Kontrollieren](doc/kontrollieren.md)
-
-[Auswerten](inc/auswerten.md)
